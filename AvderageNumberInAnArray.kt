@@ -8,5 +8,4 @@ fun main(){
     average=sum/number.size
     println("Sum of total: $sum")
     println("Sum of total: $average")
-
 }
