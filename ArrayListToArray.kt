@@ -9,5 +9,5 @@ fun main(args: Array<String>) {
     
     // printing elements of the array 
     vowels_array.forEach { System.out.print(it) }
-    
+
 }
